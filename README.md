@@ -29,7 +29,7 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
     <img width="12" />
-    <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo"  />
+    <img src="https://skillicons.dev/icons?i=next" height="40" alt="nextjs logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
     <img width="12" />
